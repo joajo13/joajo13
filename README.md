@@ -1,4 +1,4 @@
-<img src="https://github.com/alfredocanto/joajo-13/blob/main/1719583129883.jfif">
+<img src="https://github.com/joajo13/joajo13/blob/main/joajo13-banner.jpg">
 <h1 align="center">Hi 👋, I'm Juan Giupponi</h1>
 <h3 align="center">An Argentinian fullstack dev.</h3>
 
