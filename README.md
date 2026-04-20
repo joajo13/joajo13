@@ -25,7 +25,7 @@
 Fullstack developer focused on building scalable web applications, AI-powered tools, and clean developer experiences. I enjoy working across the stack — from API design and data modeling to crafting responsive, accessible UIs.
 
 - 🔭 Currently working on **multi-agent tooling** and AI-powered products
-- 🌱 Exploring **LangGraph**, agent orchestration, and advanced Next.js patterns
+- 🌱 Exploring **LangGraph**, agent orchestration,advanced backend arquitecture and patterns
 - 🧠 Interested in AI agents, automation, and developer tooling
 - 💼 Portfolio: [giupponi.dev](https://giupponi.dev)
 - 📫 Reach me at **juangiupponi2003@gmail.com**
