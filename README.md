@@ -1,22 +1,106 @@
-<img src="https://github.com/joajo13/joajo13/blob/main/joajo13-banner.jpg">
-<h1 align="center">Hi 👋, I'm Juan Giupponi</h1>
-<h3 align="center">An Argentinian fullstack dev.</h3>
+<div align="center">
+  <img src="https://github.com/joajo13/joajo13/blob/main/joajo13-banner.jpg" alt="Juan Giupponi banner" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joajo13&label=Profile%20views&color=0e75b6&style=flat" alt="joajo13" /> </p>
+  <h1>Juan Giupponi</h1>
+  <p><strong>Fullstack Developer · Argentina 🇦🇷</strong></p>
 
-- 🔭 I’m currently working on **growlink (personal project)**
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=joajo13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <a href="https://linkedin.com/in/juan-giupponi" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:juangiupponi2003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://juan-giupponi.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
-- 🌱 I’m currently learning **Next.js**
+---
 
-- 👨‍💻 All of my projects are available at [https://juan-giupponi.vercel.app/](https://juan-giupponi.vercel.app/)
+## About Me
 
-- 📫 How to reach me **juangiupponi2003@gmail.com**
+Fullstack developer focused on building scalable web applications, AI-powered tools, and clean developer experiences. I enjoy working across the stack — from API design and data modeling to crafting responsive, accessible UIs.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juan giupponi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan giupponi" height="30" width="40" /></a>
-</p>
+- 🔭 Currently working on **Growlink** and multi-agent tooling
+- 🌱 Exploring **LangGraph**, agent orchestration, and advanced Next.js patterns
+- 🧠 Interested in AI agents, automation, and developer tooling
+- 💼 Portfolio: [juan-giupponi.vercel.app](https://juan-giupponi.vercel.app/)
+- 📫 Reach me at **juangiupponi2003@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Tools & AI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**agent-team-skills**](https://github.com/joajo13/agent-team-skills) | Multi-agent team plugin implementing plan/implement/verify cycles. Works with Claude Code, Cursor, VSCode Copilot and OpenCode. | JavaScript · AI Agents |
+| [**growlink-node**](https://github.com/joajo13/growlink-node) | Node.js backend for Growlink, a personal project exploring social/graph-based features. | Node.js · Express |
+| [**regresion-lineal-interactiva**](https://github.com/joajo13/regresion-lineal-interactiva) | Interactive educational visualizer for linear regression with gradient descent, derivatives and the error bowl. | HTML · ML · Visualization |
+| [**langgraph-simple-cli**](https://github.com/joajo13/langgraph-simple-cli) | Minimal CLI scaffolding for building agents with LangGraph. | TypeScript · LangGraph |
+| [**builderbot-gupshup-integration**](https://github.com/joajo13/builderbot-gupshup-integration) | BuilderBot provider integration with Gupshup for WhatsApp bot development. | TypeScript |
+| [**crm_inmueble_api**](https://github.com/joajo13/crm_inmueble_api) | REST API for a real-estate CRM system. | TypeScript · Node.js |
+
+---
+
+## Study Notes & Coursework
+
+Public repositories with notes and materials from my studies:
+
+| Repository | Description |
+|---|---|
+| [**sistemas-digitales**](https://github.com/joajo13/sistemas-digitales) | Notes and materials from the Digital Systems course. |
+| [**sym-apuntes**](https://github.com/joajo13/sym-apuntes) | Notes from Signals and Systems (Señales y Modelos). |
+| [**iis-apuntes**](https://github.com/joajo13/iis-apuntes) | Notes from Software Engineering I (Ingeniería de Software I). |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joajo13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joajo13&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joajo13&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
