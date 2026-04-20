@@ -12,7 +12,7 @@
     <a href="mailto:juangiupponi2003@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://juan-giupponi.vercel.app/" target="_blank">
+    <a href="https://giupponi.dev" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
@@ -24,10 +24,10 @@
 
 Fullstack developer focused on building scalable web applications, AI-powered tools, and clean developer experiences. I enjoy working across the stack — from API design and data modeling to crafting responsive, accessible UIs.
 
-- 🔭 Currently working on **Growlink** and multi-agent tooling
+- 🔭 Currently working on **multi-agent tooling** and AI-powered products
 - 🌱 Exploring **LangGraph**, agent orchestration, and advanced Next.js patterns
 - 🧠 Interested in AI agents, automation, and developer tooling
-- 💼 Portfolio: [juan-giupponi.vercel.app](https://juan-giupponi.vercel.app/)
+- 💼 Portfolio: [giupponi.dev](https://giupponi.dev)
 - 📫 Reach me at **juangiupponi2003@gmail.com**
 
 ---
@@ -74,7 +74,6 @@ Fullstack developer focused on building scalable web applications, AI-powered to
 | Project | Description | Stack |
 |---|---|---|
 | [**agent-team-skills**](https://github.com/joajo13/agent-team-skills) | Multi-agent team plugin implementing plan/implement/verify cycles. Works with Claude Code, Cursor, VSCode Copilot and OpenCode. | JavaScript · AI Agents |
-| [**growlink-node**](https://github.com/joajo13/growlink-node) | Node.js backend for Growlink, a personal project exploring social/graph-based features. | Node.js · Express |
 | [**regresion-lineal-interactiva**](https://github.com/joajo13/regresion-lineal-interactiva) | Interactive educational visualizer for linear regression with gradient descent, derivatives and the error bowl. | HTML · ML · Visualization |
 | [**langgraph-simple-cli**](https://github.com/joajo13/langgraph-simple-cli) | Minimal CLI scaffolding for building agents with LangGraph. | TypeScript · LangGraph |
 | [**builderbot-gupshup-integration**](https://github.com/joajo13/builderbot-gupshup-integration) | BuilderBot provider integration with Gupshup for WhatsApp bot development. | TypeScript |
